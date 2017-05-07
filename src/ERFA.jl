@@ -23,7 +23,7 @@ export
     ERFA_DJM77,
     ERFA_TTMTAI,
     ERFA_DAU,
-    ERFA_CMP,
+    ERFA_CMPS,
     ERFA_AULT,
     ERFA_DC,
     ERFA_ELG,
